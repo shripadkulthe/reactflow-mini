@@ -1,8 +1,8 @@
 import React from 'react';
-import DemoFlow from './demoFlow';
+import InteractiveFlow from './interactiveFlow';
 
 function App() {
-  return <DemoFlow />;
+  return <InteractiveFlow />;
 }
 
 export default App;
