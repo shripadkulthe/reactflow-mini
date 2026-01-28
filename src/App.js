@@ -1,8 +1,8 @@
 import React from 'react';
-import InteractiveFlow from './interactiveFlow';
+import CustomNodesFlow from './customNodesFlow';
 
 function App() {
-  return <InteractiveFlow />;
+  return <CustomNodesFlow />;
 }
 
 export default App;
