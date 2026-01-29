@@ -1,8 +1,8 @@
 import React from 'react';
-import CustomNodesFlow from './customNodesFlow';
+import ThemedFlow from './themedFlow';
 
 function App() {
-  return <CustomNodesFlow />;
+  return <ThemedFlow />;
 }
 
 export default App;
