@@ -1,8 +1,8 @@
 import React from 'react';
-import ThemedFlow from './themedFlow';
+import DagreHierarchyFlow from './dagreHierarchyFlow';
 
 function App() {
-  return <ThemedFlow />;
+  return <DagreHierarchyFlow />;
 }
 
 export default App;
