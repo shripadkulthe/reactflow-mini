@@ -1,8 +1,8 @@
 import React from 'react';
-import DagreHierarchyFlow from './dagreHierarchyFlow';
+import DagreForceLayout from './dagreForceLayout';
 
 function App() {
-  return <DagreHierarchyFlow />;
+  return <DagreForceLayout />;
 }
 
 export default App;
