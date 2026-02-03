@@ -1,8 +1,8 @@
 import React from 'react';
-import DagreForceLayout from './dagreForceLayout';
+import SubflowLayout from './subFlowLayout';
 
 function App() {
-  return <DagreForceLayout />;
+  return <SubflowLayout />;
 }
 
 export default App;
