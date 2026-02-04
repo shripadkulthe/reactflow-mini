@@ -1,8 +1,8 @@
 import React from 'react';
-import SubflowLayout from './subFlowLayout';
+import ReactFlowProviderFlow from './reactFlowProviderFlow';
 
 function App() {
-  return <SubflowLayout />;
+  return <ReactFlowProviderFlow />;
 }
 
 export default App;
