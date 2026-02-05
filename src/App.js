@@ -1,8 +1,8 @@
 import React from 'react';
-import ReactFlowProviderFlow from './reactFlowProviderFlow';
+import UseReactFlowHookFlow from './useReactFlowHookFlow';
 
 function App() {
-  return <ReactFlowProviderFlow />;
+  return <UseReactFlowHookFlow />;
 }
 
 export default App;
